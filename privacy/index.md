@@ -69,5 +69,5 @@
 ---
 
 > 作者:   
-> URL: http://localhost:1313/privacy/  
+> URL: https://nav8.top/privacy/  
 
