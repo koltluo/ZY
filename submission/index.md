@@ -49,5 +49,5 @@
 ---
 
 > 作者:   
-> URL: https://nav8.top/submission/  
+> URL: http://localhost:1313/submission/  
 

@@ -41,5 +41,5 @@
 ---
 
 > 作者: [潜能觉醒](https://nav8.top)  
-> URL: https://nav8.top/posts/20240616-6/  
+> URL: http://localhost:1313/posts/20240616-6/  
 

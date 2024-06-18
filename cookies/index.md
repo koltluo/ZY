@@ -46,5 +46,5 @@ Cookies是小型数据文件，它们由网站发送到您的浏览器并存储�
 ---
 
 > 作者:   
-> URL: https://nav8.top/cookies/  
+> URL: http://localhost:1313/cookies/  
 

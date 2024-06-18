@@ -22,5 +22,5 @@
 ---
 
 > 作者: [潜能觉醒](https://nav8.top)  
-> URL: https://nav8.top/posts/20240614-5/  
+> URL: http://localhost:1313/posts/20240614-5/  
 

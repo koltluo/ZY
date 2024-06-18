@@ -32,5 +32,5 @@ Hello，各位亲爱的朋友们，大家好！在这个充满机遇与挑战的
 ---
 
 > 作者: [潜能觉醒](https://nav8.top)  
-> URL: https://nav8.top/posts/20240615-9/  
+> URL: http://localhost:1313/posts/20240615-9/  
 

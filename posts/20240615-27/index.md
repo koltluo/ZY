@@ -23,5 +23,5 @@ Ai作图4.0玩法：三分钟出图，可矩阵，每天一小时，收益三五
 ---
 
 > 作者: [潜能觉醒](https://nav8.top)  
-> URL: https://nav8.top/posts/20240615-27/  
+> URL: http://localhost:1313/posts/20240615-27/  
 
